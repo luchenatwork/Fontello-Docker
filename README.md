@@ -33,6 +33,9 @@ Make sure to disable hinting after open browser page http://localhost:3000.
 
 ![Uncheck Hinting Option](https://raw.githubusercontent.com/luchenatwork/Fontello-Docker/master/doc/UncheckHinting.png)
 
+# Command line interface for Fontello
+If you want to run batch font generation, give a try [Fontello-Batch-CLI](https://www.npmjs.com/package/fontello-batch-cli).
+
 # Related Repos
 Fontello:
 -   [Fontello](https://github.com/fontello/fontello): Fontello Official Repo
